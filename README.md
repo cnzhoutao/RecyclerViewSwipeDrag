@@ -1,4 +1,8 @@
 本文将带你一步一步的实现recyclerview的拖动排序与侧滑删除
+效果图如下：
+
+![有图有真相.gif](http://upload-images.jianshu.io/upload_images/3252031-2c6f25463743b62d.gif?imageMogr2/auto-orient/strip)
+接下来就开始动手啦！
 先加入包吧
 ```
    compile 'com.android.support:recyclerview-v7:25.3.0'
